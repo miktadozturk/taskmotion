@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://www.instamotion.com/",
+    "chromeWebSecurity": false,
+    "testFiles": "**/*.feature",
+    "viewportWidth": 1500,
+    "viewportHeight": 850
+}
